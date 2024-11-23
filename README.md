@@ -52,6 +52,9 @@ Predicting patient no-shows to help healthcare facilities optimize appointment s
 ## Proposed Solution
 CatBoost classifier for predicting no-shows, leveraging its automatic handling of categorical variables and minimal preprocessing requirements.
 
+## Kaggle Link
+https://www.kaggle.com/code/mnevveryaseminsungur/aygaz-veri-analizi-bootcamp
+
 ## Author
 MÜNEVVER YASEMİN SUNGUR
 
